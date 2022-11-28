@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: JJ's website
+title: Jaejin Cho
 
 # Your name to show in the footer
-author: Some Person
+author: Jaejin Cho
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
